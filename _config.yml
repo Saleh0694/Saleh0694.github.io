@@ -6,6 +6,7 @@ safe: true
 source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
+page_excerpts: true
 gist:
   noscript: false
 kramdown:
