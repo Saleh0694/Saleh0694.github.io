@@ -12,7 +12,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-minima: 
-  social_links: 
-    stackoverflow: "9943046"
-    linkedin: yahyasaleh
+social_links: 
+  stackoverflow: "9943046"
+  linkedin: yahyasaleh
