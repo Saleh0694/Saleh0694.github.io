@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Yahya's homepage
 description: I share here research projects and blogs thereon. 
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
