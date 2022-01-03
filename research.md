@@ -12,7 +12,7 @@ In my PhD I'm working on developping numerical methods to allow for simulating l
 - Active learning for building potential-energy surfaces of molecular systems, [Scientific computing for molecular physics]( https://www.notion.so/Active-learning-of-potential-energy-surface-591bdd84a30943ebbc51f97431f988eb), Universität Hamburg (2021).
 - Spectral learning for (ro-)vibrational calculations of weakly-bound molecules (poster), Helmholtz H3 Hackathon (2021).
 - Spectral and active learning for (ro-)vibrational calculations of weakly-bound molecules, Warsaw summer school for quantum physics and chemistry (2021).
-Active and spectral learning for quantum dynamics of weakly-bound molecular complexes, [conference on machine learning for quantum X]( http://mlqx.quantumexcellence.org/) (2021).
+- Active and spectral learning for quantum dynamics of weakly-bound molecular complexes, [conference on machine learning for quantum X]( http://mlqx.quantumexcellence.org/) (2021).
 - Applications of machine learning in quantum simulations of hydrogen-bond dynamics, contributing talk at Bunsen-Tagung (2021).
 - Active learning: theory and applications, Research seminar on [Mathematical Data Analysis]( https://www.math.uni-hamburg.de/home/brandt/researchseminar.html.en), Universität Hamburg (2020).
 
