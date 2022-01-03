@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Yahya's homepage
 description: I share here research projects and blogs thereon (changed).
-accent_image: /assets/img/stylized.png
+accent_image: assets/img/stylized.png
 lsi: false
 safe: true
 source: [your repo's top level directory]
