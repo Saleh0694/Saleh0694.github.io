@@ -12,6 +12,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-social_links: 
+social-network-links: 
   stackoverflow: "9943046"
   linkedin: yahyasaleh
+  twitter: @yahya_saleh94
