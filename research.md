@@ -8,6 +8,7 @@ In my PhD I'm working on developping numerical methods to allow for simulating l
 - Y. Saleh, V. Sanjay, A. Iske, A. Yachmenev, and J. Küpper , Active learning of potential-energy surfaces of weakly bound complexes with regression-tree ensembles, [J. Chem. Phys. 155, 144109]( https://doi.org/10.1063/5.0057051) (2021).
 
 # Talks and seminars 
+- Spectral learning for (ro-)vibrational calculations of weakly-bound complexes, contributing talk at _DPG_ (15.03.2022).
 - Spectral learning for solving infinite-dimensional eigenvalue problems, Research seminar on [Mathematical Data Analysis]( https://www.math.uni-hamburg.de/home/brandt/researchseminar.html.en), Universität Hamburg (2021).
 - Active learning for building potential-energy surfaces of molecular systems, [Scientific computing for molecular physics]( https://www.notion.so/Active-learning-of-potential-energy-surface-591bdd84a30943ebbc51f97431f988eb), Universität Hamburg (2021).
 - Spectral learning for (ro-)vibrational calculations of weakly-bound molecules (poster), Helmholtz H3 Hackathon (2021).
